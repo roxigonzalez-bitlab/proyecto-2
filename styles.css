@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.clase {
+  color: red;
+}
+
+#aside {
+  background-color: aqua;
+}
+
+h2 {
+  color: blue;
+}
+
+ul.main-menu > li {
+  display: inline-block;
+  margin: 10px 12px;
+}
+
+ul.main-menu a {
+  color: pink;
+}
+
+ul.main-menu > li > a {
+  color: purple;
+}
+
+ul.main-menu > li:last-child > a {
+  color: black;
+}
+
+ul.main-menu > li > a:hover {
+  color: cyan;
+}
